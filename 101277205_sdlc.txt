@@ -1,1 +1,2 @@
 sldc has five phases.
+it ensure successful implementation of system.
