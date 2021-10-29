@@ -1,2 +1,3 @@
 sldc has five phases.
 it ensure successful implementation of system.
+it produces software with the highest quality
